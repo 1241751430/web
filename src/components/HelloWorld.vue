@@ -125,6 +125,7 @@ ul{
   height:60px;
   position:fixed;
   top:0;
+  min-width: 1282px;
 }
 .logo{
   width: 100px;
@@ -162,6 +163,7 @@ ul{
   float: left;
 }
 .left_head{
+  min-width: 131px;
   padding: 0;
   width: 80%;
   margin-bottom: 30px;
@@ -185,6 +187,7 @@ ul{
   float: left;
 }
 .right_head{
+  min-width: 575px;
   height: 240px;
 }
 .right_head_left,
@@ -232,6 +235,7 @@ ul{
   width: 100%;
   height: 750px;
   margin-top: 10px;
+  min-width: 1011px;
 }
 .rigth_main_name{
   width: 100%;
